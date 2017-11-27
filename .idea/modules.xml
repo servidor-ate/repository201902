@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ERPSpring-Salud/ERPSpring-Salud.iml" filepath="$PROJECT_DIR$/ERPSpring-Salud/ERPSpring-Salud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ERPSpring-SaludBusiness/ERPSpring-SaludBusiness.iml" filepath="$PROJECT_DIR$/ERPSpring-SaludBusiness/ERPSpring-SaludBusiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ERPSpring-SaludMovil/ERPSpring-SaludMovil.iml" filepath="$PROJECT_DIR$/ERPSpring-SaludMovil/ERPSpring-SaludMovil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ERPSpring-SaludPersistence/ERPSpring-SaludPersistence.iml" filepath="$PROJECT_DIR$/ERPSpring-SaludPersistence/ERPSpring-SaludPersistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ERPSpring-Utilitarios/ERPSpring-Utilitarios.iml" filepath="$PROJECT_DIR$/ERPSpring-Utilitarios/ERPSpring-Utilitarios.iml" />
+    </modules>
+  </component>
+</project>

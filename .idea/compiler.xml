@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ERPSpring-Salud" />
+        <module name="ERPSpring-SaludBusiness" />
+        <module name="ERPSpring-SaludPersistence" />
+        <module name="ERPSpring-Utilitarios" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ERPSpring-Salud" target="1.8" />
+      <module name="ERPSpring-SaludBusiness" target="1.8" />
+      <module name="ERPSpring-SaludMovil" target="1.5" />
+      <module name="ERPSpring-SaludPersistence" target="1.8" />
+      <module name="ERPSpring-Utilitarios" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
